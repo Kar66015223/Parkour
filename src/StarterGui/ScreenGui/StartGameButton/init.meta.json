@@ -1,0 +1,19 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "BackgroundColor3": [0, 1, 0],
+    "BorderColor3": [0, 0, 0],
+    "BorderSizePixel": 0,
+    "FontFace": {
+      "family": "rbxasset://fonts/families/SourceSansPro.json",
+      "weight": "Bold",
+      "style": "Normal",
+      "cachedFaceId": null
+    },
+    "Position": [[0.411, 0.0], [0.7981, 0.0]],
+    "Size": [[0.0, 200.0], [0.0, 50.0]],
+    "Text": "Start Game",
+    "TextColor3": [0, 0, 0],
+    "TextSize": 40
+  }
+}

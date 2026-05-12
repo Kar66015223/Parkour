@@ -2,9 +2,6 @@
   "name": "Parkour",
   "tree": {
     "$className": "DataModel",
-    "Workspace": {
-      "$path": "src/Workspace"
-    },
     "ReplicatedFirst": {
       "$path": "src/ReplicatedFirst"
     },
@@ -29,7 +26,15 @@
       },
       "StarterPlayerScripts": {
         "$path": "src/StarterPlayer/StarterPlayerScripts"
+      },
+      "$properties": {
+        "CameraMaxZoomDistance": 128,
+        "CharacterBreakJointsOnDeath": false,
+        "CharacterUseJumpPower": false
       }
+    },
+    "Workspace": {
+      "$path": "src/Workspace"
     }
   }
 }

@@ -1,0 +1,13 @@
+{
+  "className": "SpawnLocation",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [-21.8, 0.5, -3.2, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Color": [242, 243, 243],
+    "Neutral": false,
+    "Size": [12, 1, 12],
+    "TeamColor": "White",
+    "TopSurface": "Smooth"
+  }
+}
